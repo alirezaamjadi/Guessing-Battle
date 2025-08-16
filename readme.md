@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="ChatGPT Image Aug 16, 2025, 01_53_45 PM" src="https://github.com/user-attachments/assets/76fc0eba-c4bd-4df7-bd3a-35dc288a8906" />
+
 # 🎮 Guessing Battle 🎮
 
 ---
@@ -133,5 +135,6 @@ Easy and fun gameplay
 Suitable for all ages
 
 Press ESC to return to menu anytime
+
 
 Enjoy the game! 🎉 / از بازی لذت ببرید! 🎉
